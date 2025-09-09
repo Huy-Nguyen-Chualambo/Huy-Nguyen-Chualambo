@@ -1,78 +1,71 @@
-# Hi there, I'm Huy Nguyen! 👋
+# Hello! I'm Huy Nguyen 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;Learning+Full+Stack;Building+Web+Applications" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate software developer who loves building innovative solutions and exploring new technologies. From web development to mobile applications, I enjoy creating projects that make a difference.
+I'm a web developer currently learning and improving my fullstack development skills. I enjoy building simple but useful web applications and am always eager to learn new technologies.
 
-- 🔭 I'm currently working on **web applications** and **mobile development**
-- 🌱 I'm constantly learning and improving my skills in **modern frameworks**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development**, **mobile apps**, or **API development**
-- ⚡ Fun fact: I believe great code tells a story!
+- 🌱 Currently learning **fullstack web development**
+- 🔍 Exploring **frontend and backend technologies**
+- 💼 Interested in creating practical web solutions
+- 📚 Always open to learning something new
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I'm Working With
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 🌟 Featured Projects
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📂 Some Projects I'm Working On
 
 ### 🏦 [Fakecombank Website](https://github.com/Huy-Nguyen-Chualambo/Fakecombank_website)
-A banking website simulation showcasing modern web development practices and secure transaction interfaces.
+A bank simulation website - learning project focused on web interfaces and form handling.
 
 ### 🌌 [Cosmos Website](https://github.com/Huy-Nguyen-Chualambo/Cosmos_website)
-An interactive space-themed website featuring stunning visuals and smooth animations.
+A space-themed website - practicing HTML, CSS, and responsive design.
 
-### 📱 [ToDo Android App](https://github.com/Huy-Nguyen-Chualambo/ToDo-Android-Kotlin)
-A feature-rich Android application built with Kotlin for efficient task management.
+### 🔗 [PHP RESTful API](https://github.com/Huy-Nguyen-Chualambo/Deha-Academy-php-RestfullApi-Lab1)
+Learning to build simple APIs with PHP - coursework assignment.
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huy-Nguyen-Chualambo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huy-Nguyen-Chualambo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huy-Nguyen-Chualambo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-Nguyen-Chualambo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-Nguyen-Chualambo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+## 🎯 Current Goals
 
-## 🤝 Connect With Me
+- 📖 Learning more about **JavaScript frameworks** (React, Vue)
+- 🗄️ Exploring **databases** and **server management**
+- 🚀 Building complete fullstack projects
+- 🤝 Contributing to open source projects to learn from others
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 📫 Get In Touch
 
-</div>
-
-## 💭 Quote
-
-> "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Huy-Nguyen-Chualambo&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Huy-Nguyen-Chualambo&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  ⭐️ From [Huy-Nguyen-Chualambo](https://github.com/Huy-Nguyen-Chualambo)
+  ⭐️ Thanks for visiting my profile!
 </div>
