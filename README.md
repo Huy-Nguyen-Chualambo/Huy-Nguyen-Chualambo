@@ -3,23 +3,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;Learning+Full+Stack" alt="Typing SVG" />
 </div>
-
----
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Huy-Nguyen-Chualambo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
----
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
 - 💻 Passionate about Web Development  
 - 🌱 Currently learning Full Stack Development  
 - 🔗 GitHub: https://github.com/Huy-Nguyen-Chualambo  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -42,8 +35,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
