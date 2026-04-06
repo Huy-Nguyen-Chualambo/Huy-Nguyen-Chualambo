@@ -17,28 +17,22 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,php,nodejs,laravel" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </p>
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huy-Nguyen-Chualambo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huy-Nguyen-Chualambo&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel," />
 </p>
 
 ---
