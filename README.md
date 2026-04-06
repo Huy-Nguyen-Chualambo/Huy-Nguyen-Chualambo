@@ -44,17 +44,6 @@
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/Huy-Nguyen-Chualambo">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-<p>
-  <a href="https://www.facebook.com/huynguyen.122011">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-</p>
-<p>
   <a href="https://www.instagram.com/_hweee13_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
