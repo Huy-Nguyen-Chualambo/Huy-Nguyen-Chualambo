@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
-- 💻 Passionate about Web Development  
+- 💻 Passionate about Software Development  
 - 🌱 Currently learning Full Stack Development  
 - 🔗 GitHub: https://github.com/Huy-Nguyen-Chualambo  
 
